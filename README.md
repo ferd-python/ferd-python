@@ -20,4 +20,4 @@ I'm a **Python Developer** specialized in **Web Scraping and Automation**.
 I help businesses save time and make better decisions using automation.
 
 📩 Open to freelance opportunities.
-# ferd-python
+
